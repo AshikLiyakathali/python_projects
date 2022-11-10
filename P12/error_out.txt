@@ -1,0 +1,2 @@
+[NbConvertApp] Converting notebook /Users/axl115/Documents/Digital Builder/CS220/Projects/P12/main.ipynb to notebook
+[NbConvertApp] Writing 55345 bytes to /Users/axl115/Documents/Digital Builder/CS220/Projects/P12/cs-220-test.ipynb
